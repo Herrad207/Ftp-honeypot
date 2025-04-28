@@ -1,0 +1,366 @@
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:00:29"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "asd", "timestamp": "2025-04-28 15:00:30"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "asd", "timestamp": "2025-04-28 15:00:30"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:00:31"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:00:31"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:00:32"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "ad", "timestamp": "2025-04-28 15:00:32"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "ad", "timestamp": "2025-04-28 15:00:32"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:00:33"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:00:33"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:00:34"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "asd", "timestamp": "2025-04-28 15:00:35"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "asd", "timestamp": "2025-04-28 15:00:35"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:00:36"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:00:36"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:00:37"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "asd", "timestamp": "2025-04-28 15:00:37"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "asd", "timestamp": "2025-04-28 15:00:37"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:00:38"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:00:38"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:00:39"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "aqui", "timestamp": "2025-04-28 15:00:40"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "aqui", "timestamp": "2025-04-28 15:00:40"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:00:41"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:00:41"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:00:41"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "ar", "timestamp": "2025-04-28 15:00:43"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "ar", "timestamp": "2025-04-28 15:00:43"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:00:44"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:00:44"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:00:45"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "ddfd", "timestamp": "2025-04-28 15:00:46"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "ddfd", "timestamp": "2025-04-28 15:00:46"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:00:47"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:00:47"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:00:48"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "fdd", "timestamp": "2025-04-28 15:00:49"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "fdd", "timestamp": "2025-04-28 15:00:49"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:00:50"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:00:50"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:01:40"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "asd", "timestamp": "2025-04-28 15:01:40"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "asd", "timestamp": "2025-04-28 15:01:40"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:01:41"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:01:41"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:01:42"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "asds", "timestamp": "2025-04-28 15:01:43"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "asds", "timestamp": "2025-04-28 15:01:43"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:01:44"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:01:44"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:01:45"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "afdd", "timestamp": "2025-04-28 15:01:46"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "afdd", "timestamp": "2025-04-28 15:01:46"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:01:47"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:01:47"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:01:48"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "fd", "timestamp": "2025-04-28 15:01:49"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "fd", "timestamp": "2025-04-28 15:01:49"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:01:51"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:01:51"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:01:52"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "qew", "timestamp": "2025-04-28 15:01:53"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "qew", "timestamp": "2025-04-28 15:01:53"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:01:54"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:01:54"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:01:54"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "dfdf", "timestamp": "2025-04-28 15:01:55"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "dfdf", "timestamp": "2025-04-28 15:01:55"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:01:56"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:01:56"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:01:57"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "fddf", "timestamp": "2025-04-28 15:01:58"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "fddf", "timestamp": "2025-04-28 15:01:58"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:01:58"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:01:58"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:01:59"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "fdfdf", "timestamp": "2025-04-28 15:02:00"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "fdfdf", "timestamp": "2025-04-28 15:02:00"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:02:01"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:02:01"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:02:48"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "asd", "timestamp": "2025-04-28 15:02:49"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "asd", "timestamp": "2025-04-28 15:02:49"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:02:50"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:02:50"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:02:50"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "qwe", "timestamp": "2025-04-28 15:02:51"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "qwe", "timestamp": "2025-04-28 15:02:51"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:02:52"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:02:52"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:02:53"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "addsa", "timestamp": "2025-04-28 15:02:54"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "addsa", "timestamp": "2025-04-28 15:02:54"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:02:56"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:02:56"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:02:57"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "dfd", "timestamp": "2025-04-28 15:02:58"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "dfd", "timestamp": "2025-04-28 15:02:58"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:02:59"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:02:59"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:03:00"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "sdsd", "timestamp": "2025-04-28 15:03:01"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "sdsd", "timestamp": "2025-04-28 15:03:01"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:03:02"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:03:02"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:03:03"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "fdfd", "timestamp": "2025-04-28 15:03:04"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "fdfd", "timestamp": "2025-04-28 15:03:04"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:03:05"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:03:05"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:03:06"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "ddf", "timestamp": "2025-04-28 15:03:08"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "ddf", "timestamp": "2025-04-28 15:03:08"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:03:09"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:03:09"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:03:09"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "dfdf", "timestamp": "2025-04-28 15:03:11"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "dfdf", "timestamp": "2025-04-28 15:03:11"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:03:12"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:03:12"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:09:15"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "admin", "timestamp": "2025-04-28 15:09:16"}
+{"event": "user_set", "client": "192.168.1.14", "username": "admin", "timestamp": "2025-04-28 15:09:16"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASS", "argument": "12345", "timestamp": "2025-04-28 15:09:17"}
+{"event": "login_failed", "client": "192.168.1.14", "username": "admin", "timestamp": "2025-04-28 15:09:17"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:09:19"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:09:19"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:09:20"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "admin", "timestamp": "2025-04-28 15:09:21"}
+{"event": "user_set", "client": "192.168.1.14", "username": "admin", "timestamp": "2025-04-28 15:09:21"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASS", "argument": "123", "timestamp": "2025-04-28 15:09:22"}
+{"event": "login_failed", "client": "192.168.1.14", "username": "admin", "timestamp": "2025-04-28 15:09:22"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:09:23"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:09:23"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:09:23"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "admin", "timestamp": "2025-04-28 15:09:24"}
+{"event": "user_set", "client": "192.168.1.14", "username": "admin", "timestamp": "2025-04-28 15:09:24"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASS", "argument": "123", "timestamp": "2025-04-28 15:09:24"}
+{"event": "login_failed", "client": "192.168.1.14", "username": "admin", "timestamp": "2025-04-28 15:09:24"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:09:25"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:09:25"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:09:26"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "admin", "timestamp": "2025-04-28 15:09:28"}
+{"event": "user_set", "client": "192.168.1.14", "username": "admin", "timestamp": "2025-04-28 15:09:28"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASS", "argument": "1234", "timestamp": "2025-04-28 15:09:28"}
+{"event": "login_failed", "client": "192.168.1.14", "username": "admin", "timestamp": "2025-04-28 15:09:28"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:09:32"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:09:32"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:09:33"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "adqw", "timestamp": "2025-04-28 15:09:34"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "adqw", "timestamp": "2025-04-28 15:09:34"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:09:36"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:09:36"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:09:37"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "admin", "timestamp": "2025-04-28 15:09:40"}
+{"event": "user_set", "client": "192.168.1.14", "username": "admin", "timestamp": "2025-04-28 15:09:40"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASS", "argument": "sdad", "timestamp": "2025-04-28 15:09:40"}
+{"event": "login_failed", "client": "192.168.1.14", "username": "admin", "timestamp": "2025-04-28 15:09:40"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:09:42"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:09:42"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:09:43"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "admin", "timestamp": "2025-04-28 15:09:45"}
+{"event": "user_set", "client": "192.168.1.14", "username": "admin", "timestamp": "2025-04-28 15:09:45"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASS", "argument": "123tff", "timestamp": "2025-04-28 15:09:46"}
+{"event": "login_failed", "client": "192.168.1.14", "username": "admin", "timestamp": "2025-04-28 15:09:46"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:09:47"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:09:47"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:11:08"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "asd", "timestamp": "2025-04-28 15:11:09"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "asd", "timestamp": "2025-04-28 15:11:09"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:11:10"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:11:10"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:11:11"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "ads", "timestamp": "2025-04-28 15:11:11"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "ads", "timestamp": "2025-04-28 15:11:11"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:11:12"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:11:12"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:11:13"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "dad", "timestamp": "2025-04-28 15:11:14"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "dad", "timestamp": "2025-04-28 15:11:14"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:11:15"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:11:15"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:11:16"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "ads", "timestamp": "2025-04-28 15:11:16"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "ads", "timestamp": "2025-04-28 15:11:16"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:11:19"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:11:19"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:11:19"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "ad", "timestamp": "2025-04-28 15:11:20"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "ad", "timestamp": "2025-04-28 15:11:20"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:11:21"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:11:21"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:11:21"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "ad", "timestamp": "2025-04-28 15:11:22"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "ad", "timestamp": "2025-04-28 15:11:22"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:11:25"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:11:25"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:11:26"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "adsd", "timestamp": "2025-04-28 15:11:27"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "adsd", "timestamp": "2025-04-28 15:11:27"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:11:28"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:11:28"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:12:17"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "asd", "timestamp": "2025-04-28 15:12:18"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "asd", "timestamp": "2025-04-28 15:12:18"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:12:20"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:12:20"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:12:21"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "ads", "timestamp": "2025-04-28 15:12:22"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "ads", "timestamp": "2025-04-28 15:12:22"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:12:24"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:12:24"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:12:27"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "admin", "timestamp": "2025-04-28 15:12:29"}
+{"event": "user_set", "client": "192.168.1.14", "username": "admin", "timestamp": "2025-04-28 15:12:29"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASS", "argument": "qui", "timestamp": "2025-04-28 15:12:30"}
+{"event": "login_failed", "client": "192.168.1.14", "username": "admin", "timestamp": "2025-04-28 15:12:30"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:12:32"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:12:32"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:12:32"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "asd", "timestamp": "2025-04-28 15:12:33"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "asd", "timestamp": "2025-04-28 15:12:33"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:12:34"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:12:34"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:12:35"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "ads", "timestamp": "2025-04-28 15:12:36"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "ads", "timestamp": "2025-04-28 15:12:36"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:12:37"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:12:37"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:12:37"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "adss", "timestamp": "2025-04-28 15:12:38"}
+{"event": "user_invalid", "client": "192.168.1.14", "username": "adss", "timestamp": "2025-04-28 15:12:38"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:12:39"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:12:39"}
+{"event": "connection_made", "client": "192.168.1.14", "timestamp": "2025-04-28 15:20:41"}
+{"event": "command_received", "client": "192.168.1.14", "command": "USER", "argument": "admin", "timestamp": "2025-04-28 15:20:42"}
+{"event": "user_set", "client": "192.168.1.14", "username": "admin", "timestamp": "2025-04-28 15:20:42"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASS", "argument": "123456", "timestamp": "2025-04-28 15:20:43"}
+{"event": "login_success", "client": "192.168.1.14", "username": "admin", "timestamp": "2025-04-28 15:20:43"}
+{"event": "command_received", "client": "192.168.1.14", "command": "SYST", "argument": "", "timestamp": "2025-04-28 15:20:43"}
+{"event": "command_received", "client": "192.168.1.14", "command": "FEAT", "argument": "", "timestamp": "2025-04-28 15:20:43"}
+{"event": "command_received", "client": "192.168.1.14", "command": "EPSV", "argument": "", "timestamp": "2025-04-28 15:20:48"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:20:48"}
+{"event": "pasv", "client": "192.168.1.14", "port": 50986, "timestamp": "2025-04-28 15:20:48"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "qweweq", "timestamp": "2025-04-28 15:20:48"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:20:48"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:20:48"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:20:53"}
+{"event": "pasv", "client": "192.168.1.14", "port": 50308, "timestamp": "2025-04-28 15:20:53"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "adad", "timestamp": "2025-04-28 15:20:53"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:20:53"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:20:53"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:20:55"}
+{"event": "pasv", "client": "192.168.1.14", "port": 44140, "timestamp": "2025-04-28 15:20:55"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "sdd", "timestamp": "2025-04-28 15:20:55"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:20:55"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:20:55"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:20:56"}
+{"event": "pasv", "client": "192.168.1.14", "port": 14206, "timestamp": "2025-04-28 15:20:56"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "sqewq", "timestamp": "2025-04-28 15:20:56"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:20:56"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:20:56"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:20:59"}
+{"event": "pasv", "client": "192.168.1.14", "port": 33751, "timestamp": "2025-04-28 15:20:59"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "erer", "timestamp": "2025-04-28 15:20:59"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:20:59"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:20:59"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:21:00"}
+{"event": "pasv", "client": "192.168.1.14", "port": 12804, "timestamp": "2025-04-28 15:21:00"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "erer", "timestamp": "2025-04-28 15:21:00"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:21:00"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:21:00"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:21:01"}
+{"event": "pasv", "client": "192.168.1.14", "port": 25062, "timestamp": "2025-04-28 15:21:01"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "frer", "timestamp": "2025-04-28 15:21:01"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:21:01"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:21:01"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:21:03"}
+{"event": "pasv", "client": "192.168.1.14", "port": 37399, "timestamp": "2025-04-28 15:21:03"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "erer", "timestamp": "2025-04-28 15:21:03"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:21:03"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:21:03"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:21:04"}
+{"event": "pasv", "client": "192.168.1.14", "port": 5051, "timestamp": "2025-04-28 15:21:04"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "sdrer", "timestamp": "2025-04-28 15:21:04"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:21:04"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:21:04"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:21:05"}
+{"event": "pasv", "client": "192.168.1.14", "port": 47791, "timestamp": "2025-04-28 15:21:05"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "eer", "timestamp": "2025-04-28 15:21:05"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:21:05"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:21:05"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:21:08"}
+{"event": "pasv", "client": "192.168.1.14", "port": 39533, "timestamp": "2025-04-28 15:21:08"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "rre", "timestamp": "2025-04-28 15:21:08"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:21:08"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:21:08"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:21:09"}
+{"event": "pasv", "client": "192.168.1.14", "port": 59473, "timestamp": "2025-04-28 15:21:09"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "rer", "timestamp": "2025-04-28 15:21:09"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:21:09"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:21:09"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:21:11"}
+{"event": "pasv", "client": "192.168.1.14", "port": 19109, "timestamp": "2025-04-28 15:21:11"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "ere", "timestamp": "2025-04-28 15:21:11"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:21:11"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:21:11"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:21:12"}
+{"event": "pasv", "client": "192.168.1.14", "port": 29482, "timestamp": "2025-04-28 15:21:12"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "reer", "timestamp": "2025-04-28 15:21:12"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:21:12"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:21:12"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:21:13"}
+{"event": "pasv", "client": "192.168.1.14", "port": 64251, "timestamp": "2025-04-28 15:21:13"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "rer", "timestamp": "2025-04-28 15:21:13"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:21:13"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:21:13"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:21:15"}
+{"event": "pasv", "client": "192.168.1.14", "port": 57756, "timestamp": "2025-04-28 15:21:15"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "erre", "timestamp": "2025-04-28 15:21:15"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:21:15"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:21:15"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:21:17"}
+{"event": "pasv", "client": "192.168.1.14", "port": 49727, "timestamp": "2025-04-28 15:21:17"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "ewweq", "timestamp": "2025-04-28 15:21:17"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:21:17"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:21:17"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:21:18"}
+{"event": "pasv", "client": "192.168.1.14", "port": 2385, "timestamp": "2025-04-28 15:21:18"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "wewe", "timestamp": "2025-04-28 15:21:18"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:21:18"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:21:18"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:21:19"}
+{"event": "pasv", "client": "192.168.1.14", "port": 43966, "timestamp": "2025-04-28 15:21:19"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "wee", "timestamp": "2025-04-28 15:21:19"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:21:19"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:21:19"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:21:20"}
+{"event": "pasv", "client": "192.168.1.14", "port": 17479, "timestamp": "2025-04-28 15:21:20"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "eqeqe", "timestamp": "2025-04-28 15:21:20"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:21:20"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:21:20"}
+{"event": "command_received", "client": "192.168.1.14", "command": "MKD", "argument": "a", "timestamp": "2025-04-28 15:21:23"}
+{"event": "mkd", "client": "192.168.1.14", "dirname": "a", "timestamp": "2025-04-28 15:21:23"}
+{"event": "command_received", "client": "192.168.1.14", "command": "MKD", "argument": "b", "timestamp": "2025-04-28 15:21:25"}
+{"event": "mkd", "client": "192.168.1.14", "dirname": "b", "timestamp": "2025-04-28 15:21:25"}
+{"event": "command_received", "client": "192.168.1.14", "command": "MKD", "argument": "c", "timestamp": "2025-04-28 15:21:28"}
+{"event": "mkd", "client": "192.168.1.14", "dirname": "c", "timestamp": "2025-04-28 15:21:28"}
+{"event": "command_received", "client": "192.168.1.14", "command": "MKD", "argument": "d", "timestamp": "2025-04-28 15:21:31"}
+{"event": "mkd", "client": "192.168.1.14", "dirname": "d", "timestamp": "2025-04-28 15:21:31"}
+{"event": "command_received", "client": "192.168.1.14", "command": "MKD", "argument": "e", "timestamp": "2025-04-28 15:21:32"}
+{"event": "mkd", "client": "192.168.1.14", "dirname": "e", "timestamp": "2025-04-28 15:21:32"}
+{"event": "command_received", "client": "192.168.1.14", "command": "MKD", "argument": "e", "timestamp": "2025-04-28 15:21:33"}
+{"event": "command_received", "client": "192.168.1.14", "command": "MKD", "argument": "t", "timestamp": "2025-04-28 15:21:35"}
+{"event": "mkd", "client": "192.168.1.14", "dirname": "t", "timestamp": "2025-04-28 15:21:35"}
+{"event": "command_received", "client": "192.168.1.14", "command": "MKD", "argument": "a", "timestamp": "2025-04-28 15:21:37"}
+{"event": "command_received", "client": "192.168.1.14", "command": "MKD", "argument": "adff", "timestamp": "2025-04-28 15:21:39"}
+{"event": "mkd", "client": "192.168.1.14", "dirname": "adff", "timestamp": "2025-04-28 15:21:39"}
+{"event": "command_received", "client": "192.168.1.14", "command": "PASV", "argument": "", "timestamp": "2025-04-28 15:21:40"}
+{"event": "pasv", "client": "192.168.1.14", "port": 42262, "timestamp": "2025-04-28 15:21:40"}
+{"event": "command_received", "client": "192.168.1.14", "command": "LIST", "argument": "", "timestamp": "2025-04-28 15:21:40"}
+{"event": "list_start", "client": "192.168.1.14", "cwd": "/", "timestamp": "2025-04-28 15:21:40"}
+{"event": "list_done", "client": "192.168.1.14", "timestamp": "2025-04-28 15:21:40"}
+{"event": "command_received", "client": "192.168.1.14", "command": "QUIT", "argument": "", "timestamp": "2025-04-28 15:21:44"}
+{"event": "quit", "client": "192.168.1.14", "timestamp": "2025-04-28 15:21:44"}
+{"event": "connection_lost", "client": "192.168.1.14", "reason": "[Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]", "timestamp": "2025-04-28 15:21:44"}
