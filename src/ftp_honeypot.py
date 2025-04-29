@@ -76,7 +76,7 @@ class FTPHoneypotProtocol(LineOnlyReceiver):
         elif cmd_upper == "PASV":
             self.handle_PASV()
         elif cmd_upper == "LIST":
-            self.handle_LIST()
+            self.handle_LIST(arg)
         elif cmd_upper == "STOR":
             self.handle_STOR(arg)
         elif cmd_upper == "RETR":
@@ -142,18 +142,29 @@ class FTPHoneypotProtocol(LineOnlyReceiver):
         write_log({"event": "pasv", "client": self.client_ip, "port": self.passive_port})
 
     def handle_LIST(self):
+        target = self.current_directory
+        if path_arg:
+            p = (self.current_directory.rstrip('/') + '/' + path_arg).replace('//','/')
+            if p in self.fs:
+                target = p
+            else:
+                self.sendLine(b"550 Directory not found")
+                write_log({"event": "list_failed_no_dir", "client": self.client_ip, "argument": path_arg})
+                return
+
         if not self.data_protocol:
             self.sendLine(b"425 No data connection")
             write_log({"event": "list_failed_no_data", "client": self.client_ip})
             return
+
         self.sendLine(b"150 Here comes the directory listing")
-        write_log({"event": "list_start", "client": self.client_ip, "cwd": self.current_directory})
+        write_log({"event": "list_start", "client": self.client_ip, "cwd": target})
 
         listing = ''
         entry_time = 'Apr 28 12:00'
-        for d in sorted(self.fs[self.current_directory]['dirs']):
+        for d in sorted(self.fs[target]['dirs']):
             listing += f"drwxr-xr-x 1 owner group 0 {entry_time} {d}\r\n"
-        for f, size in sorted(self.fs[self.current_directory]['files'].items()):
+        for f, size in sorted(self.fs[target]['files'].items()):
             listing += f"-rw-r--r-- 1 owner group {size} {entry_time} {f}\r\n"
 
         self.data_protocol.transport.write(listing.encode())
@@ -161,7 +172,7 @@ class FTPHoneypotProtocol(LineOnlyReceiver):
         self.data_protocol = None
 
         self.sendLine(b"226 Directory send OK")
-        write_log({"event": "list_done", "client": self.client_ip})
+        write_log({"event": "list_done", "client": self.client_ip, "cwd": target})
 
     def handle_STOR(self, filename):
         if not self.data_protocol:
